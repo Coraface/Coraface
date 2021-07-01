@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chris Chorafas. 
-- 👀 I’m interested in software engineering. 
-- 🌱 I’m currently learning backend development. 
+- 👀 I’m interested in software engineering and backend development. 
+- 🌱 I’m currently looking for a Java developer job. 
 - 💞️ I’m looking to collaborate on developing an app. 
 - 📫 How to reach me : https://linktr.ee/cchorafas
 
