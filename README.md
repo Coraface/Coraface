@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chris Chorafas. 
 - 👀 I’m interested in software engineering, backend development and devOps. 
-- 🌱 I’m currently working as an Alten Software Developer Contractor in Amadeus. 
-- 💞️ I’m looking to collaborate on developing an interesting app. 
+- 🌱 I’m currently working as a Software Engineer in Amadeus. 
+- 💞️ I’m looking forward to collaborate on developing an interesting app. 
 - 📫 How to reach me : https://linktr.ee/cchorafas
 
 <!---
